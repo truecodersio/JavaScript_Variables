@@ -25,9 +25,10 @@
     - An introduction using your `fullName` variable.
     - An introduction using your `city` variable.
     - An introduction using your favorite `passtime` variable.
-2. Be sure to use variables as the above answers
+2. Be sure to use variables as the above answers (declare and assign variables if you haven't already)
+3. Print the result of `myStory` to the browser console
 
 Ex: 
 ```
-let myStory = `\Hello! My name is ${fullName}. I live in ${city}. I enjoy ${passtime} and coding!`;
+let myStory = `Hello! My name is ${fullName}. I live in ${city}. I enjoy ${passtime} and coding!`;
 ```
