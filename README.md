@@ -14,8 +14,8 @@ Your objective is to begin using variables to store and pass values throughout y
 Steps are to be completed in the `app.js` file.
 
 1. Declare a variable named `firstName` using the `const` keyword
-2. Declare a variable named `lastName` using the `let` keyword, and assign your name as the **string** value
-3. Declare a variable named `age` using the `var` keyword, and assign your age as the **number** value
+2. Declare a variable named `lastName` using the `let` keyword
+3. Declare a variable named `age` using the `var` keyword
 
 ## Exercise 2: Assigning Values to Variables
 
