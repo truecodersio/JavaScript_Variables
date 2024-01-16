@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JavaScript Variables</title>
   </head>
   <body>
+     <h1 id="glowText">JS:Intro and Variables</h1>
+    <button id="myButton">JS:Intro and Variables</button>
     <main style="display: flex; justify-content: center; align-items: center">
       <div>
         <h1>Exercises: JavaScript Variables</h1>
@@ -16,6 +20,12 @@
         </ul>
       </div>
     </main>
+    <script>
+      document.getElementById("myButton").addEventListener("click", function() {
+        alert("Button Clicked!");
+      });
+    </script>
+    
     <script src="app.js"></script>
   </body>
 </html>
